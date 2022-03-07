@@ -10,3 +10,5 @@
 * [3036번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/3036.py)
 * [11050번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11050.py)
 * [11051번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11051.py)
+* [1010번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1010.py)
+* [9375번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9375.py)
