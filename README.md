@@ -17,3 +17,5 @@
 - [1676번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1676.py)
 - [2004번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2004.py)
 - [9663번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9663.py)
+- [2525번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2525.py)
+- [2480번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2480.py)
