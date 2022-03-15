@@ -25,3 +25,4 @@
 - [9461번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9461.py)
 - [1149번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1149.py) 🌟
 - [11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py)
+- [1932번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1932.py)
