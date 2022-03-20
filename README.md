@@ -20,7 +20,7 @@
 
 #### 동적 계획법 1
 
-[9184번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9184.py), [9461번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9461.py), [1149번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1149.py) 🌟, [1932번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1932.py), [2579번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2579.py) 🌟, [1463번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1463.py), [10844번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10844.py), [2156번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2156.py)
+[9184번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9184.py), [9461번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9461.py), [1149번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1149.py) 🌟, [1932번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1932.py), [2579번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2579.py) 🌟, [1463번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1463.py), [10844번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10844.py), [2156번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2156.py), [11053번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11053.py), [11054번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11054.py)
 
 #### 트리
 
