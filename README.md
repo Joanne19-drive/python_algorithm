@@ -12,7 +12,7 @@
 
 #### 백트래킹
 
-[9663번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9663.py), [14888번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/14888.py), [14889번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/14889.py)
+[9663번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9663.py), [14888번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/14888.py), [14889번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/14889.py), [2580번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2580.py)
 
 #### 큐, 덱
 
