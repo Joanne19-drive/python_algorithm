@@ -12,7 +12,7 @@
 
 ### 재귀
 
-[2447번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2447.py)
+[2447번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2447.py), [11729번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11729.py)
 
 #### 백트래킹
 
