@@ -28,7 +28,7 @@
 
 #### 그리디 알고리즘
 
-[11047번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11047.py)
+[11047번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11047.py), [1931번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1931.py)
 
 #### 트리
 
