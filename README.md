@@ -30,7 +30,7 @@
 
 [11047번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11047.py), [1931번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1931.py), [11399번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11399.py), [1541번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1541.py), [13305번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/13305.py)
 
-#### 그리디 알고리즘
+#### 분할 정복
 
 [2630번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2630.py)
 
