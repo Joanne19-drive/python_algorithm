@@ -32,7 +32,7 @@
 
 #### 분할 정복
 
-[2630번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2630.py)
+[2630번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2630.py), [1992번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1992.py)
 
 #### 트리
 
