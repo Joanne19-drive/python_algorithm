@@ -34,6 +34,10 @@
 
 [2630번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2630.py), [1992번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1992.py), [1780번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1780.py), [1629번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1629.py), [2740번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2740.py), [10830번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10830.py), [11444번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11444.py)
 
+#### 이분 탐색
+
+[1920번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1920.py)
+
 #### 트리
 
 [11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py)
