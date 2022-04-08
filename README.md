@@ -38,6 +38,10 @@
 
 [1920번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1920.py), [10816번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10816.py), [1654번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1654.py), [2805번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2805.py), [2110번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2110.py), [1300번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1300.py), [12015번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12015.py)
 
+#### 우선순위 큐
+
+[11279번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11279.py)
+
 #### 트리
 
 [11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py)
