@@ -40,7 +40,7 @@
 
 #### 우선순위 큐
 
-[11279번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11279.py), [1927번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1927.py)
+[11279번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11279.py), [1927번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1927.py), [11286번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11286.py)
 
 #### 트리
 
