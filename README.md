@@ -42,6 +42,10 @@
 
 [11279번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11279.py), [1927번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1927.py), [11286번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11286.py), [1655번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1655.py)
 
+#### DFS와 BFS
+
+[1260번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1260.py)
+
 #### 트리
 
 [11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py)
