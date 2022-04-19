@@ -44,7 +44,7 @@
 
 #### DFS와 BFS
 
-[1260번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1260.py), [2606번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2606.py), [2667번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2667.py), [1012번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1012.py), [2178번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2178.py), [7576번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7576.py), [7569번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7569.py)
+[1260번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1260.py), [2606번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2606.py), [2667번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2667.py), [1012번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1012.py), [2178번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2178.py), [7576번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7576.py), [7569번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7569.py), [1697번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1697.py)
 
 #### 트리
 
