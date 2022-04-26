@@ -28,7 +28,7 @@
 
 #### 누적합
 
-[11659번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11659.py), [2559번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2559.py), [16139번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/16139.py)
+[11659번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11659.py), [2559번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2559.py), [16139번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/16139.py), [10986번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10986.py)
 
 #### 그리디 알고리즘
 
