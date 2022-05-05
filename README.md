@@ -46,6 +46,10 @@
 
 [11279번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11279.py), [1927번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1927.py), [11286번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11286.py), [1655번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1655.py)
 
+#### 동적 계획법 2
+
+[11066번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11066.py)
+
 #### DFS와 BFS
 
 [1260번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1260.py), [2606번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2606.py), [2667번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2667.py), [1012번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1012.py), [2178번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2178.py), [7576번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7576.py), [7569번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7569.py), [1697번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1697.py), [2206번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2206.py), [7562번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/7562.py), [1707번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1707.py)
