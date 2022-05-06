@@ -48,7 +48,7 @@
 
 #### 동적 계획법 2
 
-[11066번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11066.py)
+[11066번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11066.py), [11049번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11049.py)
 
 #### DFS와 BFS
 
