@@ -48,7 +48,7 @@
 
 #### 동적 계획법 2
 
-[11066번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11066.py), [11049번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11049.py), [1520번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1520.py)
+[11066번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11066.py), [11049번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11049.py), [1520번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1520.py), [10942번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10942.py)
 
 #### DFS와 BFS
 
