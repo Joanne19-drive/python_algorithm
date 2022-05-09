@@ -64,4 +64,4 @@
 
 ### 2. leetcode | 리트코드 문제 풀이
 
-[1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py)
+[1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
