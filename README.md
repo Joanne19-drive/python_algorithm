@@ -2,9 +2,13 @@
 
 ### 1. baekjoon | 백준 문제 풀이
 
-#### if문
+#### 조건문
 
 [2525번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2525.py), [2480번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2480.py)
+
+#### 문자열
+
+[1152번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1152.py), [2908번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2908.py), [5622번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/5622.py), [2941번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2941.py), [1316번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1316.py)
 
 #### 정수론 및 조합론
 
