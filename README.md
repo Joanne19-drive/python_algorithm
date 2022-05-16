@@ -62,9 +62,9 @@
 
 [1753번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1753.py), [1504번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1504.py), [13549번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/13549.py), [9370번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9370.py), [11657번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11657.py) 🌟, [11404번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11404.py), [1956번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1956.py)
 
-#### 투포인터
+#### 투 포인터
 
-[3273번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/3273.py)
+[3273번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/3273.py), [2470번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2470.py)
 
 #### 트리
 
