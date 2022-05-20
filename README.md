@@ -66,6 +66,10 @@
 
 [3273번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/3273.py), [2470번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2470.py), [1806번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1806.py), [1644번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1644.py), [1450번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1450.py) 🌟
 
+#### 동적 계획법과 최단거리 역추적
+
+[12852번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12852.py)
+
 #### 트리
 
 [11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py)
