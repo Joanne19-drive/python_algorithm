@@ -72,7 +72,7 @@
 
 #### 트리
 
-[11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py)
+[11725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11725.py), [1967번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1967.py)
 
 ### 2. leetcode | 리트코드 문제 풀이
 
