@@ -76,7 +76,7 @@
 
 #### 유니온 파인드
 
-[1717번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1717.py)
+[1717번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1717.py), [1976번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1976.py)
 
 ### 2. leetcode | 리트코드 문제 풀이
 
