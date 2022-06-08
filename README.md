@@ -78,6 +78,10 @@
 
 [1717번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1717.py), [1976번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1976.py), [4195번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/4195.py), [20040번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/20040.py)
 
+#### 최소 신장 트리
+
+[9372번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9372.py)
+
 ### 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
