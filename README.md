@@ -80,7 +80,7 @@
 
 #### 최소 신장 트리
 
-[9372번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9372.py)
+[9372번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9372.py), [1197번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1197.py)
 
 ### 2. leetcode | 리트코드 문제 풀이
 
