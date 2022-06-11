@@ -82,6 +82,10 @@
 
 [9372번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9372.py), [1197번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1197.py), [4386번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/4386.py), [1774번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1774.py)
 
+#### 트리에서의 동적 계획법
+
+[15681번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15681.py)
+
 ### 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
