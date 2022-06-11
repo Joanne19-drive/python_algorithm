@@ -16,20 +16,12 @@ child = [1] * (n+1)
 
 def dfs(x):
     visited[x] = True
-    have_child = False
-    my_child = []
+    child_num = 1
     for i in tree[x]:
         if visited[i] == False:
-            have_child = True
-            my_child.append(i)
-    if have_child == False:
-        return 1
-    else:
-        child_num = 1
-        for i in my_child:
             child_num += dfs(i)
-        child[x] = child_num
-        return child_num
+    child[x] = child_num
+    return child_num
 
 
 dfs(r)
