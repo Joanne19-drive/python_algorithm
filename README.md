@@ -80,7 +80,7 @@
 
 #### 최소 신장 트리
 
-[9372번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9372.py), [1197번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1197.py), [4386번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/4386.py), [1774번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1774.py)
+[9372번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9372.py), [1197번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1197.py), [4386번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/4386.py), [1774번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1774.py), [2887번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2887.py)
 
 #### 트리에서의 동적 계획법
 
