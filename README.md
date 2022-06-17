@@ -86,6 +86,10 @@
 
 [15681번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15681.py), [2213번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2213.py) 🌟, [2533번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2533.py), [1949번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1949.py)
 
+#### 기하 2
+
+[2166번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2166.py)
+
 ### 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
