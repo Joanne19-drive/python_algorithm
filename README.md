@@ -88,7 +88,7 @@
 
 #### 기하 2
 
-[2166번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2166.py)
+[2166번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2166.py), [11758번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11758.py)
 
 ### 2. leetcode | 리트코드 문제 풀이
 
