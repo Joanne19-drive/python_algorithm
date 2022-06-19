@@ -90,6 +90,10 @@
 
 [2166번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2166.py), [11758번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11758.py)
 
+#### 동적 계획법 3
+
+[11723번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11723.py)
+
 ### 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
