@@ -92,7 +92,7 @@
 
 #### 동적 계획법 3
 
-[11723번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11723.py)
+[11723번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11723.py), [17404번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/17404.py)
 
 ### 2. leetcode | 리트코드 문제 풀이
 
