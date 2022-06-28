@@ -94,6 +94,10 @@
 
 [11723번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11723.py), [1311번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1311.py) 🌟, [2098번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2098.py) 🌟, [17404번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/17404.py), [2482번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2482.py) 🌟
 
+#### 문자열 알고리즘 1
+
+[14725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/14725.py)
+
 ### 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
