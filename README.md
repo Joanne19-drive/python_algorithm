@@ -1,6 +1,8 @@
-## python_algorithm
+# python_algorithm
 
-### 1. baekjoon | 백준 문제 풀이
+## 1. baekjoon | 백준 문제 풀이
+
+### ☑ 단계별 문제풀이
 
 #### 조건문
 
@@ -98,6 +100,12 @@
 
 [14725번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/14725.py)
 
-### 2. leetcode | 리트코드 문제 풀이
+### ☑ 알고리즘 분류
+
+#### 동적 계획법
+
+[2294번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2294.py)
+
+## 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
