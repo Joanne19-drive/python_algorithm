@@ -104,7 +104,7 @@
 
 #### 동적 계획법
 
-[2294번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2294.py), [5557번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/5557.py)
+[2294번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2294.py), [5557번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/5557.py), [2096번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2096.py)
 
 ## 2. leetcode | 리트코드 문제 풀이
 
