@@ -106,6 +106,10 @@
 
 [2294번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2294.py), [5557번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/5557.py), [2096번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2096.py), [9084번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9084.py)
 
+#### 정렬
+
+[11000번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11000.py)
+
 ## 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
