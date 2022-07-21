@@ -110,6 +110,10 @@
 
 [11000번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/11000.py), [5052번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/5052.py) 🌟, [1092번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1092.py), [1461번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1461.py), [1374번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1374.py), [1263번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1263.py)
 
+#### 그리디 알고리즘
+
+[12904번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12904.py)
+
 ## 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
