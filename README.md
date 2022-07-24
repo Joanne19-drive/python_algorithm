@@ -112,7 +112,7 @@
 
 #### 그리디 알고리즘
 
-[12904번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12904.py), [1946번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1946.py) 🌟
+[12904번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12904.py), [1946번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1946.py) 🌟, [1052번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1052.py)
 
 ## 2. leetcode | 리트코드 문제 풀이
 
