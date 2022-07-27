@@ -116,7 +116,7 @@
 
 #### 트리
 
-[15900번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15900.py)
+[15900번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15900.py), [15805번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15805.py)
 
 ## 2. leetcode | 리트코드 문제 풀이
 
