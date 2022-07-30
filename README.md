@@ -118,6 +118,10 @@
 
 [15900번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15900.py), [15805번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15805.py)
 
+#### 깊이 우선 탐색
+
+[2573번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2573.py)
+
 ## 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
