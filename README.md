@@ -120,7 +120,7 @@
 
 #### 깊이 우선 탐색
 
-[2573번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2573.py), [2636번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2636.py), [10026번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10026.py), [2617번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2617.py), [10216번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10216.py), [20058번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/20058.py)
+[2573번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2573.py), [2636번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2636.py), [10026번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10026.py), [2617번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2617.py), [10216번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10216.py), [20058번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/20058.py), [2638번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2638.py)
 
 ## 2. leetcode | 리트코드 문제 풀이
 
