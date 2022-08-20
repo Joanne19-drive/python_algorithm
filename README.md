@@ -112,7 +112,7 @@
 
 #### 그리디 알고리즘
 
-[12904번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12904.py), [1946번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1946.py) 🌟, [1052번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1052.py), [2138번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2138.py), [13164번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/13164.py) 🌟, [21758번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/21758.py)
+[12904번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/12904.py), [1946번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1946.py) 🌟, [1052번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1052.py), [2138번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/2138.py), [13164번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/13164.py) 🌟, [21758번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/21758.py), [9009번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/9009.py)
 
 #### 트리
 
