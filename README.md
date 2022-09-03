@@ -116,7 +116,7 @@
 
 #### 자료구조
 
-[15900번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15900.py), [15805번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15805.py), [1715번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1715.py), [1253번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1253.py)
+[15900번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15900.py), [15805번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/15805.py), [1715번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1715.py), [1253번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1253.py), [17413번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/17413.py)
 
 #### 그래프 탐색
 
