@@ -126,6 +126,10 @@
 
 [17609번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/17609.py)
 
+#### 재귀
+
+[18222번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/18222.py)
+
 ## 2. leetcode | 리트코드 문제 풀이
 
 [1249번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/1249.py), [17번](https://github.com/Joanne19-drive/python_algorithm/blob/main/leetcode/17.py)
