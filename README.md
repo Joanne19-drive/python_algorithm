@@ -124,7 +124,7 @@
 
 #### 문자열
 
-[17609번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/17609.py), [10930번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10930.py), [4889번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/4889.py)
+[17609번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/17609.py), [10930번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/10930.py), [4889번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/4889.py), [1759번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1759.py)
 
 #### 재귀
 
