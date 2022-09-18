@@ -128,7 +128,7 @@
 
 #### 재귀
 
-[18222번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/18222.py)
+[18222번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/18222.py), [1914번](https://github.com/Joanne19-drive/python_algorithm/blob/main/baekjoon/1914.py)
 
 ## 2. leetcode | 리트코드 문제 풀이
 
